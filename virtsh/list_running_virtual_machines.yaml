@@ -1,0 +1,8 @@
+---
+name: To list running virtual machines
+command: "virsh list"
+tags:
+  - virsh
+description: To list running virtual machines
+arguments: []
+shells: []
